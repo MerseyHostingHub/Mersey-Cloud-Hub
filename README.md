@@ -1,3 +1,9 @@
-# Mersey-Cloud-Storage
+# Mersey Hosting Hub | Cloud Storage
 
-A new website for hosting files, images and more. More details to be announced soon.
+A new website for hosting files, images and more.
+
+## Coming Soon
+
+- Domain
+- Logo
+- New Server
